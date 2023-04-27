@@ -1,0 +1,7 @@
+test:
+  -
+    id: test1
+    property: propiedad1
+  -
+    id: test2
+    property: propiedad2
